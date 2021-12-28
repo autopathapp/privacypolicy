@@ -4,7 +4,7 @@ Autopath collects location data from your phone, which is processed, encrypted a
 
 ### Contact
 
-If you have questions regarding this privacy policy, you may email `autopath.support@pm.me`. 
+If you have questions regarding this privacy policy or app usage, you may email `autopath.support@pm.me`. 
 
 ### Your Consent
 
