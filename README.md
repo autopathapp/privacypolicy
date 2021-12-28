@@ -1,6 +1,6 @@
 # Autopath App Privacy Policy
 
-Autopath collects location data from your phone, which is processed, encrypted and stored locally. Autopath is designed for personal use only. No data is collected and shared with third parties. 
+Autopath collects location data from your phone, which is processed, encrypted and stored locally. Autopath is designed for personal use only. No additional data is collected by the developer and no data is shared with third parties. 
 
 ### Contact
 
